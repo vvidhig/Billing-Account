@@ -1,0 +1,111 @@
+Account ID,Customer Name,Billing Date,Amount,Status,Description,Department
+1001,David Wilson,2023-01-01,193.9875582,Pending,Consultation,Pediatrics
+1002,Alice Johnson,2023-01-02,370.6560205,Pending,Purchase,Orthopedics
+1003,Sophia Garcia,2023-01-03,233.0194861,Pending,Lab Test,Pharmacy
+1004,Olivia Davis,2023-01-04,296.1207247,Paid,Follow-up,Pharmacy
+1005,David Wilson,2023-01-05,294.6547636,Paid,Therapy,ENT
+1006,Olivia Davis,2023-01-06,485.6547588,Paid,Procedure,General Practice
+1007,Chris Lee,2023-01-07,2864.738488,Pending,Lab Test,General Practice
+1008,Sophia Garcia,2023-01-08,244.2285964,Pending,Therapy,Neurology
+1009,Sophia Garcia,2023-01-09,183.3701324,Pending,Emergency,Cardiology
+1010,Olivia Davis,2023-01-10,127.6010726,Unpaid,Medication,Dermatology
+1011,Chris Lee,2023-01-11,167.9930189,Pending,Consultation,Unknown
+1012,Liam Martinez,2023-01-12,236.1579188,Unknown,Therapy,Cardiology
+1013,Sophia Garcia,2023-01-13,229.7597163,Paid,Lab Test,Neurology
+1014,David Wilson,2023-01-14,234.3494166,Unpaid,Miscellaneous,Pediatrics
+1015,Jane Smith,2023-01-15,124.1523776,Paid,Medication,General Practice
+1016,Emma Brown,2023-01-16,51.40049298,Unpaid,Follow-up,General Practice
+1017,John Doe,2023-01-17,2748.478753,Pending,Refund,ENT
+1018,Mason Rodriguez,2023-01-18,442.2799515,Paid,Lab Test,Pharmacy
+1019,Olivia Davis,2023-01-19,143.5587869,Paid,Miscellaneous,Radiology
+1020,Olivia Davis,2023-01-20,139.1487795,Paid,Consultation,Dermatology
+1021,John Doe,2023-01-21,492.5716516,Unpaid,Therapy,Neurology
+1022,Emma Brown,2023-01-22,1194.216873,Unpaid,Consultation,Dermatology
+1023,Emma Brown,2023-01-23,390.5284847,Pending,Emergency,Radiology
+1024,Liam Martinez,2023-01-24,288.3261477,Pending,Therapy,Dermatology
+1025,David Wilson,2023-01-25,289.6253216,Unpaid,Follow-up,Orthopedics
+1026,Chris Lee,2023-01-26,224.1107673,Unpaid,Follow-up,Orthopedics
+1027,Olivia Davis,2023-01-27,85.72058849,Paid,Follow-up,Radiology
+1028,Mason Rodriguez,2023-01-28,1274.901263,Pending,Medication,Oncology
+1029,John Doe,2023-01-29,113.0149937,Paid,Service Fee,Cardiology
+1030,Emma Brown,2023-01-30,256.9462228,Pending,Emergency,Cardiology
+1031,Liam Martinez,2023-01-31,1589.820779,Unpaid,Therapy,ENT
+1032,David Wilson,2023-02-01,2812.330089,Pending,Procedure,Oncology
+1033,Jane Smith,2023-02-02,467.8009033,Paid,Lab Test,Pharmacy
+1034,Liam Martinez,2023-02-03,1573.703437,Pending,Service Fee,Neurology
+1035,Sophia Garcia,2023-02-04,325.9215886,Unpaid,Purchase,Oncology
+1036,Chris Lee,2023-02-05,374.704797,Unpaid,Purchase,General Practice
+1037,Jane Smith,2023-02-06,240.0936018,Unknown,Therapy,Dermatology
+1038,Jane Smith,2023-02-07,371.7014983,Paid,Procedure,Orthopedics
+1039,Sophia Garcia,2023-02-08,145.8694766,Unpaid,Purchase,Orthopedics
+1040,Mason Rodriguez,2023-02-09,193.0231742,Paid,Follow-up,Cardiology
+1041,Liam Martinez,2023-02-10,123.7056495,Pending,Follow-up,ENT
+1042,Alice Johnson,2023-02-11,357.9715749,Paid,Emergency,Dermatology
+1043,Emma Brown,2023-02-12,392.7830854,Paid,Consultation,Pharmacy
+1044,John Doe,2023-02-13,488.8115444,Pending,Miscellaneous,Unknown
+1045,Alice Johnson,2023-02-14,72.17282594,Unpaid,Lab Test,Pediatrics
+1046,Jane Smith,2023-02-15,164.8555522,Pending,Refund,Pharmacy
+1047,Sophia Garcia,2023-02-16,95.61124789,Paid,Refund,Pediatrics
+1048,Jane Smith,2023-02-17,407.0452787,Pending,Lab Test,Cardiology
+1049,John Doe,2023-02-18,187.1627369,Pending,Purchase,Pharmacy
+1050,David Wilson,2023-02-19,484.3571468,Unpaid,Follow-up,Oncology
+1051,Liam Martinez,2023-02-20,221.4197203,Unpaid,Emergency,Neurology
+1052,Mason Rodriguez,2023-02-21,289.1770355,Paid,Consultation,Pediatrics
+1053,Chris Lee,2023-02-22,445.4096597,Pending,Refund,Oncology
+1054,Mason Rodriguez,2023-02-23,296.2846921,Pending,Follow-up,Neurology
+1055,David Wilson,2023-02-24,100.631588,Unpaid,Consultation,Dermatology
+1056,Chris Lee,2023-02-25,204.590527,Pending,Service Fee,Cardiology
+1057,David Wilson,2023-02-26,327.6909836,Unknown,Purchase,Neurology
+1058,Emma Brown,2023-02-27,201.4468005,Unpaid,Consultation,Pediatrics
+1059,Jane Smith,2023-02-28,465.7185511,Unpaid,Procedure,Neurology
+1060,Emma Brown,2023-03-01,124.061213,Paid,Miscellaneous,Pharmacy
+1061,Chris Lee,2023-03-02,213.9060502,Unpaid,Medication,Cardiology
+1062,Chris Lee,2023-03-03,354.2043129,Paid,Purchase,Oncology
+1063,Emma Brown,2023-03-04,250.4718828,Pending,Miscellaneous,Neurology
+1064,John Doe,2023-03-05,408.5655299,Paid,Consultation,ENT
+1065,Chris Lee,2023-03-06,292.4065019,Paid,Therapy,Pediatrics
+1066,Mason Rodriguez,2023-03-07,332.3829677,Unpaid,Refund,ENT
+1067,Alice Johnson,2023-03-08,50.58100301,Unpaid,Lab Test,Oncology
+1068,Liam Martinez,2023-03-09,71.82633824,Unpaid,Follow-up,ENT
+1069,Jane Smith,2023-03-10,297.0072894,Paid,Purchase,ENT
+1070,David Wilson,2023-03-11,421.191346,Unpaid,Lab Test,Unknown
+1071,David Wilson,2023-03-12,174.4970476,Pending,Therapy,Cardiology
+1072,Olivia Davis,2023-03-13,73.97368723,Unknown,Consultation,Oncology
+1073,John Doe,2023-03-14,293.5297756,Pending,Refund,Oncology
+1074,Sophia Garcia,2023-03-15,173.5394725,Unpaid,Consultation,ENT
+1075,Alice Johnson,2023-03-16,499.01886,Unpaid,Purchase,Pediatrics
+1076,Chris Lee,2023-03-17,105.7394274,Paid,Refund,Cardiology
+1077,Jane Smith,2023-03-18,210.4014723,Paid,Follow-up,General Practice
+1078,Liam Martinez,2023-03-19,79.26393222,Unpaid,Emergency,Dermatology
+1079,Emma Brown,2023-03-20,335.7207631,Unpaid,Follow-up,Dermatology
+1080,Mason Rodriguez,2023-03-21,284.4831136,Pending,Service Fee,ENT
+1081,David Wilson,2023-03-22,430.5232804,Paid,Emergency,Radiology
+1082,Chris Lee,2023-03-23,232.8416807,Paid,Refund,Cardiology
+1083,Emma Brown,2023-03-24,91.11744292,Paid,Emergency,Pharmacy
+1084,Emma Brown,2023-03-25,412.0160507,Paid,Service Fee,Cardiology
+1085,Olivia Davis,2023-03-26,3006.661392,Paid,Emergency,ENT
+1086,Mason Rodriguez,2023-03-27,59.73193562,Unpaid,Consultation,Orthopedics
+1087,Emma Brown,2023-03-28,3849.771331,Pending,Medication,Unknown
+1088,Mason Rodriguez,2023-03-29,297.3492718,Unpaid,Emergency,Radiology
+1089,Olivia Davis,2023-03-30,83.60754204,Paid,Emergency,Cardiology
+1090,Sophia Garcia,2023-03-31,330.4510305,Paid,Medication,Pharmacy
+1091,John Doe,2023-04-01,150.0149083,Unpaid,Procedure,Oncology
+1092,John Doe,2023-04-02,145.2591234,Unpaid,Medication,Radiology
+1093,Jane Smith,2023-04-03,474.6252863,Pending,Procedure,Pharmacy
+1094,Jane Smith,2023-04-04,3593.752963,Pending,Purchase,Pediatrics
+1095,Emma Brown,2023-04-05,351.6931393,Unpaid,Medication,ENT
+1096,Jane Smith,2023-04-06,243.3744731,Paid,Procedure,Cardiology
+1097,Olivia Davis,2023-04-07,90.07299064,Unpaid,Emergency,Pediatrics
+1098,John Doe,2023-04-08,172.5518624,Paid,Procedure,Pharmacy
+1099,Emma Brown,2023-04-09,333.9256456,Pending,Refund,Oncology
+1100,Liam Martinez,2023-04-10,118.6692342,Unknown,Emergency,ENT
+1016,Emma Brown,2023-01-16,63.78690995,Unpaid,Follow-up,General Practice
+1017,John Doe,2023-01-17,2526.258343,Pending,Refund,ENT
+1018,Mason Rodriguez,2023-01-18,376.1625498,Paid,Lab Test,Pharmacy
+1019,Olivia Davis,2023-01-19,76.54500255,Paid,Procedure,Radiology
+1020,Olivia Davis,2023-01-20,94.77632389,Paid,Consultation,Dermatology
+1026,Chris Lee,2023-01-26,182.0721136,Unpaid,Follow-up,Orthopedics
+1027,Olivia Davis,2023-01-27,87.94341909,Paid,Follow-up,Radiology
+1028,Mason Rodriguez,2023-01-28,1511.13729,Pending,Medication,Oncology
+1029,John Doe,2023-01-29,72.21792142,Paid,Service Fee,Unknown
+1030,Emma Brown,2023-01-30,375.2208749,Pending,Emergency,Cardiology
