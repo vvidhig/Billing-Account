@@ -7,3 +7,5 @@
 - This approach leverages the power of LLMs to automate the analysis and reporting process, potentially uncovering insights that might be missed in manual analysis. It also allows for rapid generation of detailed reports, which can be particularly useful for regular billing reviews or audits.
 
 ## The dataset is present in the dataset folder
+
+## The final_report contains all the summary and the detailed analysis about the billing transactions provided in the dataset
