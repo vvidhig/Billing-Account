@@ -1,5 +1,9 @@
-This code demonstrates an automated approach to generating insights and reports from billing data using Large Language Models (LLMs). We're using two instances of an LLM called 'llama3' through the Ollama interface - one for generating insights and another for writing the final report.
-The process begins by collecting key metrics from our billing data, such as average billing cycle time, number of high-cost transactions, duplicate transactions, late payments, and payment discrepancies.
-We then use the first LLM to analyze this data and generate insights. This is done by constructing a prompt that includes the billing data and asks the model to provide observations.
-Next, we take these generated insights along with a more detailed analysis of the billing data and feed them into the second LLM. This model is tasked with writing a comprehensive report based on all this information.
-This approach leverages the power of LLMs to automate the analysis and reporting process, potentially uncovering insights that might be missed in manual analysis. It also allows for rapid generation of detailed reports, which can be particularly useful for regular billing reviews or audits.
+## Project Summary:
+
+- This code demonstrates an automated approach to generating insights and reports from billing data using Large Language Models (LLMs). We're using two instances of an LLM called 'llama3' through the Ollama interface - one for generating insights and another for writing the final report.
+- The process begins by collecting key metrics from our billing data, such as average billing cycle time, number of high-cost transactions, duplicate transactions, late payments, and payment discrepancies.
+- We then use the first LLM to analyze this data and generate insights. This is done by constructing a prompt that includes the billing data and asks the model to provide observations.
+- Next, we take these generated insights along with a more detailed analysis of the billing data and feed them into the second LLM. This model is tasked with writing a comprehensive report based on all this information.
+- This approach leverages the power of LLMs to automate the analysis and reporting process, potentially uncovering insights that might be missed in manual analysis. It also allows for rapid generation of detailed reports, which can be particularly useful for regular billing reviews or audits.
+
+## The dataset is present in the dataset folder
